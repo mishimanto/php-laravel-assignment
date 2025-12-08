@@ -32,38 +32,6 @@ Includes:
 
 ---
 
-## 🗂 Structure
-
-php-laravel-assignment/
-│
-├── Task_0_ValidParentheses/
-│ └── valid_parentheses.php
-│
-├── Task_1_Inheritance/
-│ └── shapes.php
-│
-├── Task_2_Interface/
-│ └── logger.php
-│
-├── Task_3_Encapsulation/
-│ └── employee.php
-│
-├── Task_4_Polymorphism/
-│ └── animals.php
-│
-└── Task_5_Laravel_Todo/
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-├── routes/
-├── tests/
-└── artisan
-
-
----
 
 ##  **How to Run the Laravel Todo App**
 
