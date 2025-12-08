@@ -37,7 +37,7 @@ Includes:
 
 ```bash
 ### Step 1 — Clone the repository
-git clone <https://github.com/mishimanto/laravel-todo>
+git clone <https://github.com/mishimanto/php-laravel-assignment>
 cd Task_5_Laravel_Todo
 
 ### Step 2 — Install dependencies
